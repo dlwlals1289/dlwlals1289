@@ -2,8 +2,18 @@
 
 ### Who is LEE JIMIN?
 
-<a href="https://velog.io/@e_jim" target="_blank"><img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<!-- <a href="https://velog.io/@e_jim" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB??style=social&logo=appveyor&logo=로고&logoColor=로고색상"/></a> -->
+<!-- <a href="https://velog.io/@e_jim" target="_blank"><img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a> -->
+
+
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=3776AB"/>
+
+
+
+
+
+
+
+
 <!--
 **dlwlals1289/dlwlals1289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
