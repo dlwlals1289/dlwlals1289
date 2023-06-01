@@ -16,13 +16,14 @@
   
   #### 😁 Used At Least Once
   <img src="https://img.shields.io/badge/C++-EF5C55?style=for-the-badge&logo=cplusplus&logoColor=white"/> <!-- c++ badge -->
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <!-- react badge -->
   
   <br/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <!-- react badge -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <!-- django badge -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <!-- react badge -->
-  <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <!-- react badge -->
-  <img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <!-- react badge -->
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <!-- react badge -->
+  <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <!-- html badge -->
+  <img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <!-- css badge -->
+  
 
 </div>
 
