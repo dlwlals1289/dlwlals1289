@@ -9,7 +9,6 @@
   #### ⭐️ Mainly Used 
   <img src="https://img.shields.io/badge/Python-40AEF0?style=for-the-badge&logo=Python&logoColor=3776AB"/> <!-- Python badge -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <!-- Java badge -->
-  
   <br>
   
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <!-- Spring badge -->
