@@ -5,7 +5,9 @@
 <!-- <a href="https://velog.io/@e_jim" target="_blank"><img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a> -->
 
 
-<img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/> <!-- Python badge -->
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
+
 
 
 
