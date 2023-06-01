@@ -6,7 +6,9 @@
 
 
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/> <!-- Python badge -->
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <!-- Java badge -->
+<img src="https://img.shields.io/badge/cplusplus-EF5C55?style=flat&logo=OpenJDK&logoColor=white"/> <!-- c++ badge -->
+
 
 
 
