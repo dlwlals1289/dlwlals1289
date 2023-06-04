@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jimin's%20Github&fontSize=90" />
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>   
   
   ## 💜 Who is LEE JIMIN?
 <!--   출생, 학교, 좋아하는 것, 취미, 잘하는 것, velog, notion이력서, instagram 등등  -->
